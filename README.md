@@ -9,5 +9,5 @@ Usage:
 - Cleaning up the code a bit by:
     - Replacing div tags with semantic tags
     - Verified links
-    - Slim down CSS from 200 lines to 124 lines
+    - Slim down CSS from 200 lines to 121 lines
     - Standardize font family
