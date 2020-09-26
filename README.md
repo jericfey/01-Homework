@@ -1,4 +1,4 @@
-# 02-Homework
+# Learning HTML/CSS & Git
 
 Installation: 
 - Basic html page with css
