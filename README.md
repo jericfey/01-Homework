@@ -9,3 +9,4 @@ Usage:
 - Cleaning up the code a bit by:
     - Replacing div tags with semantic tags
     - Verified links
+    - Slim down CSS
