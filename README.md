@@ -11,3 +11,5 @@ Usage:
     - Verified links
     - Slim down CSS from 200 lines to 121 lines
     - Standardize font family
+
+![Website Screenshot](./Website_screenshot.jpg)
